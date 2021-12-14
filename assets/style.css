@@ -1,0 +1,17 @@
+body{
+    background-color:#FFF;
+
+}
+.test{
+    background-color:rgb(175, 175, 175);
+    padding: 8px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    border: 2px solid red;
+    border-radius: 8px;
+    height: auto;
+    box-sizing: border-box;
+    color: #fff;
+}
